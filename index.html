@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+   <meta charset='UTF-8'>
+   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+   <title>quiz app</title>
+   <link rel='stylesheet' href='style.css'>
+</head>
+
+<body>
+
+   <main class="quiz-app">
+      <section class="quiz-info">
+         <div class="category">Category : general </div>
+         <div class="count">questions count : <span></span> </div>
+      </section>
+      <div class="container">
+         <section class="quiz-area">
+            <h2></h2>
+         </section>
+         <section>
+            <div class="answers-area">
+               <div class="answer">
+                  <input type="radio" id="answer-1" name="questions" checked>
+                  <label for="answer-1"></label>
+               </div>
+               <div class="answer">
+                  <input type="radio" id="answer-2" name="questions">
+                  <label for="answer-2"></label>
+               </div>
+               <div class="answer">
+                  <input type="radio" id="answer-3" name="questions">
+                  <label for="answer-3"></label>
+               </div>
+               <div class="answer">
+                  <input type="radio" id="answer-4" name="questions">
+                  <label for="answer-4"></label>
+               </div>
+            </div>
+            <button class="submit-btn">Submit</button>
+            <div class="bullets">
+               <div class="spans">
+
+               </div>
+               <div class="countdown">
+                  <span class="minutes">00 </span> :
+                  <span class="seconds">0<span>5</span></span>
+               </div>
+            </div>
+         </section>
+
+      </div>
+   </main>
+   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+   <script src='app.js'></script>
+</body>
+
+</html>

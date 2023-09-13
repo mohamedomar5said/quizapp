@@ -1,0 +1,50 @@
+[
+  {
+    "title": "What is the capital of Canada?",
+    "answer-1": "Toronto",
+    "answer-2": "Vancouver",
+    "answer-3": "Montreal",
+    "answer-4": "Ottawa",
+    "right-answer": "Ottawa"
+  },
+  {
+    "title": "Which gas do plants absorb from the atmosphere?",
+    "answer-1": "Oxygen",
+    "answer-2": "Carbon Dioxide",
+    "answer-3": "Nitrogen",
+    "answer-4": "Methane",
+    "right-answer": "Carbon Dioxide"
+  },
+  {
+    "title": "Who wrote the famous novel 'Pride and Prejudice'?",
+    "answer-1": "Charles Dickens",
+    "answer-2": "Jane Austen",
+    "answer-3": "Mark Twain",
+    "answer-4": "F. Scott Fitzgerald",
+    "right-answer": "Jane Austen"
+  },
+  {
+    "title": "What is the chemical symbol for the element Gold?",
+    "answer-1": "Go",
+    "answer-2": "Ag",
+    "answer-3": "Au",
+    "answer-4": "Hg",
+    "right-answer": "Au"
+  },
+  {
+    "title": "Which planet is known as the 'Red Planet'?",
+    "answer-1": "Earth",
+    "answer-2": "Venus",
+    "answer-3": "Mars",
+    "answer-4": "Jupiter",
+    "right-answer": "Mars"
+  },
+  {
+    "title": "What is the largest mammal in the world?",
+    "answer-1": "Elephant",
+    "answer-2": "Blue Whale",
+    "answer-3": "Giraffe",
+    "answer-4": "Hippopotamus",
+    "right-answer": "Blue Whale"
+  }
+]
